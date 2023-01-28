@@ -10,4 +10,3 @@
 
 In this project I have created the funtion printf. In this project only realise the mandatory part. In a future I will perform the bonus part.
 
-**NOTE:** Thi is funtion and funtion used will be added to the Libft library.
